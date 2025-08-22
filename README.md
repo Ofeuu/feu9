@@ -5,16 +5,16 @@
 </div>
 <div align="center">
   
-# Olá, sou o feu! <br> Trabalhando com Roblox e fazendo design com Blender
+# Olá, sou o feu! <br> Trabalho com o Roblox Studio e faço design com Blender
 </div>
 
-#### Linguagens de Programação e Frameworks
+#### Linguagens de programação e frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-E2231A?style=flat&logo=roblox&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 
-#### Ferramentas de Desenvolvimento e DevOps
+#### Ferramentas de desenvolvimento e DevOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-#### Outras Ferramentas e Tecnologias
+#### Outras ferramentas e tecnologias
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft-55C45D?style=flat&logo=minecraft&logoColor=white)
 
 ##
